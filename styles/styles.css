@@ -1,3 +1,5 @@
+body {background-color:#b0c4de;}
+
 .container {
 	font-family: 'Varela', sans-serif;
     width: 200px;
@@ -6,9 +8,9 @@
     border-color: black;
     background-color: #CBCBCB;
     padding: 10px 20px 20px 20px;
-    -moz-box-shadow: 5px 5px 5px #454545;
-    -webkit-box-shadow: 5px 5px 5px #454545;
-    box-shadow: 5px 5px 5px #9b9a9c;
+    -moz-box-shadow: 5px 5px 5px #667488;
+    -webkit-box-shadow: 5px 5px 5px #667488;
+    box-shadow: 5px 5px 5px #667488;
     float: none;
     clear: both;
 }

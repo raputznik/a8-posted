@@ -1,6 +1,6 @@
 <?php 
 
-$noun = $_POST["noun1"];
+$noun1 = $_POST["noun1"];
 $verb1 = $_POST["verb1"];
 $noun2 = $_POST["noun2"];
 $mood1 = $_POST["mood1"];

@@ -12,7 +12,7 @@ print_r($_POST);
 
 $message = "";
 
-$message = $noun1." went to the store, where he ".$verb1." his ".$noun2." and this made him ".$mood1." until he realized that he ".$verb2." his ".$noun3." was lost forever";
+$message = $noun1." went to the store, where he ".$verb1." his ".$noun2." and this made him ".$mood1." until he realized that he ".$verb2." his ".$noun3.", and it was lost forever";
 
 $message = wordwrap($message, 70, "\r\n");
 
